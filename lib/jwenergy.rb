@@ -94,7 +94,7 @@ module JWEnergy
       if (uri.port == 443) # ssl?
         http.use_ssl = true
         http.verify_mode = OpenSSL::SSL::VERIFY_PEER
-        http.ca_path = ca_path if ca_path
+        http.ca_path = ::JWEnergy.ca_path if ::JWEnergy.ca_path
       end
 
       response = http.request(request)
