@@ -1,0 +1,1874 @@
+--- 
+- !ruby/struct:VCR::HTTPInteraction 
+  request: !ruby/struct:VCR::Request 
+    method: :post
+    uri: https://rn12.ultipro.com:443/JWO1000/JobBoard/SearchJobs.aspx
+    body: RecordsPerPage=200&RadiusMeasure=mi&Req_City=&Keywords=&__PXLBV=&Submit=Submit&Req_Zip=&Req_TitleFK=0&Req_State=&__PXLBN=&__PXPOSTBACK=1&Radius=&Req_JobFamilyFK=0&Req_LocationFK=0
+    headers: 
+      content-type: 
+      - application/x-www-form-urlencoded
+  response: !ruby/struct:VCR::Response 
+    status: !ruby/struct:VCR::ResponseStatus 
+      code: 200
+      message: OK
+    headers: 
+      x-powered-by: 
+      - ASP.NET
+      p3p: 
+      - (policyref="none.xml", CP="NON DSP COR CURa TIA")
+      x-aspnet-version: 
+      - 2.0.50727
+      content-type: 
+      - text/html; charset=utf-8
+      server: 
+      - Microsoft-IIS/6.0
+      date: 
+      - Tue, 13 Dec 2011 14:36:33 GMT
+      content-length: 
+      - "84520"
+      set-cookie: 
+      - ASP.NET_SessionId=phtwr0bihuukjx45yur0ycyb; path=/; HttpOnly
+      - BIGipServerrn12.ultipro.com_http_pool=534013962.20480.0000; path=/
+      - __jbsrcid=*86EE06D72F666815; path=/JWO1000/JobBoard
+      cache-control: 
+      - private
+    body: "\r\n\
+      \r\n\
+      <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n\
+      <html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\r\n\
+      <head>\r\n\
+      \r\n\
+      <script>\r\n\
+      \tfunction openWin(URL)\r\n\
+      \t{\r\n\
+      \t\taWindow=window.open(URL, \"help\", \"toolbar=no,width=350,height=250,status=no,scrollbars=yes,resize=yes,menubar=no\");\r\n\
+      \t}\r\n\
+      </script>\r\n\
+      \r\n\
+      \t<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"/>\r\n\
+      \t\r\n\
+      \t\r\n\
+      \t<title>J-W Energy Company | Employment Opportunities2</title>\r\n\
+      \t<meta name=\"author\" content=\"\"/>\r\n\
+      \t<meta name=\"copyright\" content=\"&copy; 2011 J-W Energy CMS All Rights Reserved\"/>\r\n\
+      \t<meta name=\"keywords\" content=\"\"/>\r\n\
+      \t<meta name=\"description\" content=\"\"/>\r\n\
+      \t<meta name=\"revisit-after\" content=\"7 days\"/>\r\n\
+      \t<meta name=\"robot\" content=\"All\"/>\r\n\
+      \t<link rel=\"shortcut icon\" href=\"http://www.jwenergy.com/favicon.ico\" />\r\n \r\n\
+      <link type=\"text/css\" rel=\"stylesheet\" href=\"Custom/SkinCustom/JWO1000/Jobboard.css\"/>\r\n\
+      <link type=\"text/css\" rel=\"stylesheet\" href=\"Custom/SkinCustom/JWO1000/combine.css?m=1294331067355\"/> \r\n\
+      <script type=\"text/javascript\" src=\"Custom/SkinCustom/JWO1000/combine.js?m=1294250965059\"></script>\r\n\
+      <!--[if lt IE 7]>\r\n\
+      \t<script type=\"text/javascript\" src=\"Custom/SkinCustom/JWO1000/ie7.js\"></script>\r\n\
+      <![endif]-->\r\n\
+      </head>\r\n \r\n\
+      <body id=\"page_employment-opportunities\">\r\n \r\n\
+      <div id=\"site\">\r\n\
+      \t\r\n\
+      \t<div class=\"sk_2ColumnWide\">\r\n\
+      \t\t\r\n\
+      \t\t<div class=\"row\" id=\"row1\">\r\n\
+      \t\t\t\r\n\
+      \t\t\t<div class=\"column\">\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\t<div id=\"row1column1\" class=\"layoutcell\">\r\n\
+      \t\t\t\t\t\t\r\n \r\n\
+      <div id=\"header\">\r\n\
+      \t\r\n\
+      \t\r\n\
+      \t\r\n\
+      \t\r\n\
+      \t\r\n\
+      \t<h1 id=\"logo-6\"><a href=\"http://www.jwenergy.com/top-sub-menu\" title=\"Home\">Top Sub Menu</a></h1>\r\n\
+      \t\r\n\
+      \t<div id=\"topmenu\">\r\n\
+      \t\t<ul>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/j-w-energy-company\">Home</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/contact-us\">Contact Us</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/search\">Search</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/newsletter-subscription\">Newsletter Subscription</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/employment-opportunities\">Employment Opportunities</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/links\">Links</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/company-news\">News</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/login\">Login</a></li>\r\n\
+      \t\t</ul>\r\n\
+      \t</div>\r\n\
+      </div> \r\n\
+      \t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t<div class=\"row\" id=\"row2\">\r\n\
+      \t\t\t\r\n\
+      \t\t\t<div class=\"column\">\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\t<div id=\"row2column1\" class=\"layoutcell\">\r\n\
+      \t\t\t\t\t\t\r\n \r\n\
+      <div id=\"mainnav\">\r\n\
+      \t<ul>\r\n\
+      \t\t\r\n\
+      \t\t\t<li id=\"mainnav-14\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-energy-company\">J-W Energy Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li id=\"mainnav-15\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-power-company\">J-W Power Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li id=\"mainnav-20\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-measurement-company\">J-W Measurement Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li id=\"mainnav-17\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-wireline-company\">J-W Wireline Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li id=\"mainnav-21\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-manufacturing-company\">J-W Manufacturing Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li id=\"mainnav-19\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-gathering-company\">J-W Gathering Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li id=\"mainnav-18\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-operating-company1\">J-W Operating Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t</ul>\r\n\
+      </div>\r\n \r\n\
+      \t\t\t\r\n\
+      <div id=\"subnav\">\r\n\
+      \t<h3>J-W Energy Company Menu</h3>\r\n\
+      \t\r\n\
+      \t<ul>\r\n\
+      \t\t\r\n\
+      \t\t\t<li class=\" first\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/our-subsidiaries\">Our Subsidiaries</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/health-safety-and-environment\">Health, Safety and Environment</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/corporate-governance\">Corporate Governance</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/company-history\">Company History</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/business-development\">Business Development</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/management-profiles\">Management Profiles</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/social-media1\">Social Media</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/our-locations\">Our Locations</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\" last\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/company-news\">Company News</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t</ul>\r\n\
+      </div> \r\n\
+      \t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t\t<div class=\"column\">\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\t<div id=\"row2column2\" class=\"layoutcell\">\r\n\
+      \t\t\t\t\t\t\r\n\
+      <div class=\"block wysiwyg wysiwyg_414\">\r\n\
+      \r\n\
+      \t<div id=\"JobboardLinksMenu\">\r\n\
+      \t\t<ul>\r\n\
+      \t\t\t<li><a href=\"listjobs.aspx?Page=Browse\">Browse Open Jobs</a></li>\r\n\
+      \t\t\t<li><a href=\"SearchJobs.aspx?Page=Search\">Search Open Jobs</a></li>\r\n\
+      \t\t\t<li><a href=\"CanLogin.aspx?Page=Edit&__RT=*03B1BB03D61C8AF97D4673BBBAA90397453A8304235BF4FEFEB9325E4266B80E\">Edit Your Profile</a></li>\r\n\
+      \t\t\t<li><a href=\"CanLogin.aspx?Page=Status&__RT=*D31E1CE553E0352CA0005662327038C0EFE3CF3EEE6DAF505DDA84E0D9A79ACB\">View Submitted Applications</a></li>\r\n            \r\n\
+      \t\t</ul>\r\n\
+      \t</div>\r\n\
+      \r\n\
+      \r\n\
+      \t<div class=\"default\">\r\n\
+      \t\r\n\
+      \r\n\
+      \t\t\t\t\t\t<div class=\"content\">\r\n\
+      \r\n\
+      <br />\r\n\
+      \r\n\
+      <style>\r\n\
+      .LinkSmall:link { \r\n    text-decoration: none;\r\n\
+      \tcolor: rgb(122, 122, 122);\t\r\n\
+      }\r\n\
+      .LinkSmall:visited { \r\n    text-decoration: none;\t\r\n\
+      \tcolor: rgb(122, 122, 122); \r\n\
+      }\r\n\
+      .LinkSmall:active { \r\n    text-decoration: none;\r\n\
+      \tcolor: rgb(122, 122, 122); \t\r\n\
+      }\r\n\
+      .LinkSmall:hover { \r\n    font-weight: normal;\r\n    text-decoration: underline;\t\t\r\n\
+      \tcolor: #1C64D1;\r\n\
+      }\r\n\
+      .LabelCell { \r\n\
+      \tCOLOR: #ffffff; \r\n\
+      \tBACKGROUND-COLOR: #001F40; \r\n\
+      }\r\n\
+      .LabelCell A:active { \r\n\
+      \tFONT-WEIGHT: bold; \r\n\
+      \tCOLOR: #ffffff \r\n\
+      }\r\n\
+      .LabelCell A:visited { \r\n\
+      \tFONT-WEIGHT: bold; \r\n\
+      \tCOLOR: #ffffff \r\n\
+      }\r\n\
+      .LabelCell A:link { \r\n\
+      \tFONT-WEIGHT: bold; \r\n\
+      \tCOLOR: #ffffff \r\n\
+      }\r\n\
+      .LabelCell A:hover { \r\n\
+      \tFONT-WEIGHT: bold; \r\n\
+      \tCOLOR: #ffffff; \r\n\
+      \tTEXT-DECORATION: underline \r\n\
+      }\r\n\
+      \r\n\
+      .Cell, .highlightRow, .LabelCell\r\n\
+      {\r\n\
+      \tpadding-left: 3px;\t\r\n\
+      }\r\n\
+      .GridTable { WIDTH: 100% }\r\n\
+      \r\n\
+      .Cell, .highlightRow\r\n\
+      {\r\n\
+      \twhite-space: normal;\r\n\
+      }\r\n\
+      .PrintMedium {\r\n\
+      \ttext-align: justify;\r\n\
+      }\r\n\
+      </style>\r\n\
+      \r\n\
+      <span id=\"lblTitle\" class=\"PrintHeader\">Browse Open Jobs</span>\r\n\
+      \r\n\
+      <br>\r\n\
+      <br>\r\n\
+      <div class=\"PrintMedium\">Welcome to J-W Energy Company\xE2\x80\x99s career site. We are constantly looking for talented and motivated new employees who can contribute to our success. The job links below are a list of current openings.  To apply for a particular job, <em>please click on the specific title.</em></div><form name=\"PXForm\" method=\"post\" action=\"ListJobs.aspx?__SVRTRID=05D2D228-C960-4546-A8A0-077287A0F5FA\" id=\"PXForm\">\r\n\
+      <input type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUENTM4MWRkYXxwkMvK0N1Xf3prNkXj84v3gk0=\" />\r\n\
+      \r\n\
+      <input type=\"hidden\" name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWDQKdgrCVDQLZmLPIBwLRmtKmBwLJvYapAwKduOGWBgKC9qGSBQL99cOUCAK2xqmfDQKj96rgDQLLvLGTDwLArLTaDQKD+aqJAQLUpr/LD5A51UVGVp0BBOa76YEyzyECvIaC\" /><input name=\"__PXPOSTBACK\" type=\"hidden\" id=\"__PXPOSTBACK\" value=\"1\" /><script language=\"JavaScript\" type=\"text/javascript\" src=\"../UI/GT/hmscore.js\"></script>\r\n\
+      <SCRIPT LANGUAGE=javascript>\r\n\
+      <!--\r\n\
+      \tfunction resetpxslbp() {\r\n\
+      \t\tvar theform;\r\n\
+      \t\tif (window.navigator.appName.toLowerCase().indexOf(\"netscape\") > -1) {\r\n\
+      \t\t\ttheform = document.forms[\"PXForm\"];\r\n\
+      \t\t}\r\n\
+      \t\telse {\r\n\
+      \t\t\ttheform = document.PXForm;\r\n\
+      \t\t}\r\n\
+      \t\ttheform.__PXLBN.value = ('');\r\n\
+      \t\ttheform.__PXLBV.value = ('');\r\n\
+      \t}\r\n\
+      \tfunction pxslbp(eventTarget, eventArgument) {\r\n\
+      \t\tvar theform;\r\n\
+      \t\tif (window.navigator.appName.toLowerCase().indexOf(\"netscape\") > -1) {\r\n\
+      \t\t\ttheform = document.forms[\"PXForm\"];\r\n\
+      \t\t}\r\n\
+      \t\telse {\r\n\
+      \t\t\ttheform = document.PXForm;\r\n\
+      \t\t}\r\n\
+      \t\ttheform.__PXLBN.value = eventTarget;\r\n\
+      \t\ttheform.__PXLBV.value = eventArgument;\r\n\
+      \t\ttheform.submit();\r\n\
+      \t}\r\n\
+      //-->\r\n\
+      </SCRIPT>\r\n\
+      <input name=\"__PXLBN\" type=\"hidden\" id=\"__PXLBN\" /><input name=\"__PXLBV\" type=\"hidden\" id=\"__PXLBV\" /><table cellpadding=\"1\" cellspacing=\"1\" width=\"100%\">\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\" valign=\"top\"><input name=\"__PXDO\" type=\"hidden\" id=\"__PXDO\" value=\"*5B193482696D86A46BE27A09BF9D44EF1FEF5044CF8196FBF1B81AABDB2580DA35D2E0E945D769E69249FCDCF130A4B1D3104011C807F147712D6EA5E4CC1ABC99A8DA4AA272D02FEAC1C3B02E5FF2966724009B422B7DC9C150EE4EB8BBDEE66D889DF3F2ED31300B672A6BD6778DCBA44779F751744AF48012C9EAFA64A09ABD6FBF990399A95BF122EB7806A3917135BE313A12FBCE63\" /><input name=\"__Keywords\" type=\"hidden\" id=\"__Keywords\" /><input name=\"__RecordsPerPage\" type=\"hidden\" id=\"__RecordsPerPage\" value=\"200\" /><span class=\"PrintMedium\">Showing Records: </span><span class=\"PrintMedium\">1 - 68</span><span><br /></span><span class=\"PrintMedium\">Total Records: </span><span class=\"PrintMedium\">68</span><span><br /></span><span><br /></span></td>\r\n\
+      \t</tr>\r\n\
+      </table>\r\n\
+      <input name=\"__PreparedPXDO\" type=\"hidden\" id=\"__PreparedPXDO\" value=\"*501A15E038216814AFF20DE0ED6A92EF6202B33F038B51D97EA415797B8CA4E5F38CF93C7AE71598A0651CEDF2C249FA6154171B5AA4900B22100622BF47E16290D613F8AAA7EA896787B9328D50E944D7797879CC8DE56C65DF545914EAAE6AAC467BBC4FE4C42ED0946C258023CF6AD6DAD7CD844EA14FD589F25BFDF7CA44A1DF242B719CE323D96C5BFFBCFA6CD3343B8C75EEFCD8C5EB1D71323DBD97689E43F906DB2BBA1FD1AE4E6B24A8FE0A0C2BFA5DCB137A11BF7944B40F2BE03E1CE669DF7C790B1CB2D7C27BC29006707E5D4FEA5E9A689B6ADFDCECF25C8B222D110ED253437F003826D432A98E92362806043CFF51003D2B52AF38785C5142D667832D94B06899CE9D3372E8491F1F9E7FE7DBC78FFD8C9E9A89B61F11E4772C11AAC455A2BD683B5A140059AA1B18C57CD8CC5E4805FF33580DC791CC4C7E69717895D32186350B2B637F6E04D8E7B8C4F0F632780BB9D1B621F0256DB2F6\" /><table cellpadding=\"1\" cellspacing=\"1\" class=\"GridTable\">\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"LabelCell\"><a href=\"javascript:pxslbp('OBC','*401C1934BD26089D26BF0464E80E8F5A')\" class=\"LinkSmall\">Post Date</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"LabelCell\"><a href=\"javascript:pxslbp('OBC','*F3EDEC5E97F6B9B22F0DD23F001925D4')\" class=\"LinkSmall\">Title</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"LabelCell\"><a href=\"javascript:pxslbp('OBC','*40AF1722050DC18D7005C14EA5A1A9EF')\" class=\"LinkSmall\">City</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"LabelCell\"><a href=\"javascript:pxslbp('OBC','*43669D2E1576A6347F99B6B4B70FFFD1')\" class=\"LinkSmall\">State</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"LabelCell\"><a href=\"javascript:pxslbp('OBC','*A1DB93ED3C7EB0796BAA85FD29BCED8F')\" class=\"LinkSmall\">Business Unit</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*94762A5E73A8D794\" title=\"12/9/2011\" class=\"LinkSmall\">12/9/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*94762A5E73A8D794\" title=\"Pipeline Designer\" class=\"LinkSmall\">Pipeline Designer</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*94762A5E73A8D794\" title=\"Addison\" class=\"LinkSmall\">Addison</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*94762A5E73A8D794\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*94762A5E73A8D794\" title=\"J-W Gathering Company\" class=\"LinkSmall\">J-W Gathering Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*5987F4618E11B687\" title=\"12/8/2011\" class=\"LinkSmall\">12/8/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*5987F4618E11B687\" title=\"* Inventory Assistant\" class=\"LinkSmall\">* Inventory Assistant</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*5987F4618E11B687\" title=\"Brighton \" class=\"LinkSmall\">Brighton </a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*5987F4618E11B687\" title=\"CO\" class=\"LinkSmall\">CO</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*5987F4618E11B687\" title=\"J-W Power Company\" class=\"LinkSmall\">J-W Power Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*37AB7CC02BEB1B48\" title=\"12/8/2011\" class=\"LinkSmall\">12/8/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*37AB7CC02BEB1B48\" title=\"Pipe Welder C-A (Night Shift)\" class=\"LinkSmall\">Pipe Welder C-A (Night Shift)</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*37AB7CC02BEB1B48\" title=\"Casper\" class=\"LinkSmall\">Casper</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*37AB7CC02BEB1B48\" title=\"WY\" class=\"LinkSmall\">WY</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*37AB7CC02BEB1B48\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0C06685AA5C01488\" title=\"12/8/2011\" class=\"LinkSmall\">12/8/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0C06685AA5C01488\" title=\"Grinder-Calibrator (Night Shift)\" class=\"LinkSmall\">Grinder-Calibrator (Night Shift)</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0C06685AA5C01488\" title=\"Casper\" class=\"LinkSmall\">Casper</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0C06685AA5C01488\" title=\"WY\" class=\"LinkSmall\">WY</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0C06685AA5C01488\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*81D4CA6AC6C6F9A0\" title=\"12/8/2011\" class=\"LinkSmall\">12/8/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*81D4CA6AC6C6F9A0\" title=\"Pipe Welder C-A (Night Shift)\" class=\"LinkSmall\">Pipe Welder C-A (Night Shift)</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*81D4CA6AC6C6F9A0\" title=\"Farmington\" class=\"LinkSmall\">Farmington</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*81D4CA6AC6C6F9A0\" title=\"NM\" class=\"LinkSmall\">NM</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*81D4CA6AC6C6F9A0\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*3E227FF52BFCCF1B\" title=\"12/8/2011\" class=\"LinkSmall\">12/8/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*3E227FF52BFCCF1B\" title=\"Grinder-Calibrator (Night Shift)\" class=\"LinkSmall\">Grinder-Calibrator (Night Shift)</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*3E227FF52BFCCF1B\" title=\"Farmington\" class=\"LinkSmall\">Farmington</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*3E227FF52BFCCF1B\" title=\"NM\" class=\"LinkSmall\">NM</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*3E227FF52BFCCF1B\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0FBFB8E3D6F788A1\" title=\"12/8/2011\" class=\"LinkSmall\">12/8/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0FBFB8E3D6F788A1\" title=\"Structural Welder C-A\" class=\"LinkSmall\">Structural Welder C-A</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0FBFB8E3D6F788A1\" title=\"Farmington\" class=\"LinkSmall\">Farmington</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0FBFB8E3D6F788A1\" title=\"NM\" class=\"LinkSmall\">NM</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0FBFB8E3D6F788A1\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*A756453CB0314E7F\" title=\"12/8/2011\" class=\"LinkSmall\">12/8/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*A756453CB0314E7F\" title=\"Building Assembler\" class=\"LinkSmall\">Building Assembler</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*A756453CB0314E7F\" title=\"Farmington\" class=\"LinkSmall\">Farmington</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*A756453CB0314E7F\" title=\"NM\" class=\"LinkSmall\">NM</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*A756453CB0314E7F\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*C6DFF35D6264B148\" title=\"12/8/2011\" class=\"LinkSmall\">12/8/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*C6DFF35D6264B148\" title=\"Robotics Operator\" class=\"LinkSmall\">Robotics Operator</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*C6DFF35D6264B148\" title=\"Kilgore\" class=\"LinkSmall\">Kilgore</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*C6DFF35D6264B148\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*C6DFF35D6264B148\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*645B4EDF3DEC4DC4\" title=\"12/8/2011\" class=\"LinkSmall\">12/8/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*645B4EDF3DEC4DC4\" title=\"Structural Welder C-A (Night Shift)\" class=\"LinkSmall\">Structural Welder C-A (Night Shift)</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*645B4EDF3DEC4DC4\" title=\"Casper\" class=\"LinkSmall\">Casper</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*645B4EDF3DEC4DC4\" title=\"WY\" class=\"LinkSmall\">WY</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*645B4EDF3DEC4DC4\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*FF55BEE20CE43E33\" title=\"12/5/2011\" class=\"LinkSmall\">12/5/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*FF55BEE20CE43E33\" title=\"Pipe Welder\" class=\"LinkSmall\">Pipe Welder</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*FF55BEE20CE43E33\" title=\"Casper\" class=\"LinkSmall\">Casper</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*FF55BEE20CE43E33\" title=\"WY\" class=\"LinkSmall\">WY</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*FF55BEE20CE43E33\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*336CC6A036286588\" title=\"12/5/2011\" class=\"LinkSmall\">12/5/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*336CC6A036286588\" title=\"Compressor Service Technician\" class=\"LinkSmall\">Compressor Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*336CC6A036286588\" title=\"Alice\" class=\"LinkSmall\">Alice</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*336CC6A036286588\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*336CC6A036286588\" title=\"J-W Power Company\" class=\"LinkSmall\">J-W Power Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*AFCD5DFBBD286B2D\" title=\"12/2/2011\" class=\"LinkSmall\">12/2/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*AFCD5DFBBD286B2D\" title=\"Hydro Technician\" class=\"LinkSmall\">Hydro Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*AFCD5DFBBD286B2D\" title=\"Kilgore\" class=\"LinkSmall\">Kilgore</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*AFCD5DFBBD286B2D\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*AFCD5DFBBD286B2D\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*F5DE13A42F5C4C57\" title=\"12/1/2011\" class=\"LinkSmall\">12/1/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*F5DE13A42F5C4C57\" title=\"Compressor Service Technician\" class=\"LinkSmall\">Compressor Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*F5DE13A42F5C4C57\" title=\"Houma\" class=\"LinkSmall\">Houma</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*F5DE13A42F5C4C57\" title=\"LA\" class=\"LinkSmall\">LA</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*F5DE13A42F5C4C57\" title=\"J-W Power Company\" class=\"LinkSmall\">J-W Power Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*1BAEC7257DFCC9EC\" title=\"12/1/2011\" class=\"LinkSmall\">12/1/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*1BAEC7257DFCC9EC\" title=\"Shop Lead\" class=\"LinkSmall\">Shop Lead</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*1BAEC7257DFCC9EC\" title=\"Montoursville\" class=\"LinkSmall\">Montoursville</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*1BAEC7257DFCC9EC\" title=\"PA\" class=\"LinkSmall\">PA</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*1BAEC7257DFCC9EC\" title=\"J-W Measurement Company\" class=\"LinkSmall\">J-W Measurement Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*507B11EFEE40D295\" title=\"11/29/2011\" class=\"LinkSmall\">11/29/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*507B11EFEE40D295\" title=\"Senior Joint Interest Billing Accountant\" class=\"LinkSmall\">Senior Joint Interest Billing Accountant</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*507B11EFEE40D295\" title=\"Addison\" class=\"LinkSmall\">Addison</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*507B11EFEE40D295\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*507B11EFEE40D295\" title=\"J-W Admin Company\" class=\"LinkSmall\">J-W Admin Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*33B8EDF556A27C96\" title=\"11/28/2011\" class=\"LinkSmall\">11/28/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*33B8EDF556A27C96\" title=\"Code Welder C - A\" class=\"LinkSmall\">Code Welder C - A</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*33B8EDF556A27C96\" title=\"Kilgore\" class=\"LinkSmall\">Kilgore</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*33B8EDF556A27C96\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*33B8EDF556A27C96\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*965D2DB781257B06\" title=\"11/22/2011\" class=\"LinkSmall\">11/22/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*965D2DB781257B06\" title=\"Compressor Service Technician\" class=\"LinkSmall\">Compressor Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*965D2DB781257B06\" title=\"Carlsbad\" class=\"LinkSmall\">Carlsbad</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*965D2DB781257B06\" title=\"NM\" class=\"LinkSmall\">NM</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*965D2DB781257B06\" title=\"J-W Power Company\" class=\"LinkSmall\">J-W Power Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*037A0A5B8117C55C\" title=\"11/21/2011\" class=\"LinkSmall\">11/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*037A0A5B8117C55C\" title=\"Instrumentation-Tubing Assembler \" class=\"LinkSmall\">Instrumentation-Tubing Assembler </a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*037A0A5B8117C55C\" title=\"Kilgore\" class=\"LinkSmall\">Kilgore</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*037A0A5B8117C55C\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*037A0A5B8117C55C\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*C7D6DE5DAF61BC47\" title=\"11/21/2011\" class=\"LinkSmall\">11/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*C7D6DE5DAF61BC47\" title=\"* Quality Control Inspector\" class=\"LinkSmall\">* Quality Control Inspector</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*C7D6DE5DAF61BC47\" title=\"Kilgore\" class=\"LinkSmall\">Kilgore</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*C7D6DE5DAF61BC47\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*C7D6DE5DAF61BC47\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*8B06ED149F0AA876\" title=\"11/21/2011\" class=\"LinkSmall\">11/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*8B06ED149F0AA876\" title=\"* Inventory Assistant\" class=\"LinkSmall\">* Inventory Assistant</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*8B06ED149F0AA876\" title=\"Kilgore\" class=\"LinkSmall\">Kilgore</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*8B06ED149F0AA876\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*8B06ED149F0AA876\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*DD54A0F70144D880\" title=\"11/21/2011\" class=\"LinkSmall\">11/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*DD54A0F70144D880\" title=\"Building Assembler\" class=\"LinkSmall\">Building Assembler</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*DD54A0F70144D880\" title=\"Kilgore\" class=\"LinkSmall\">Kilgore</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*DD54A0F70144D880\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*DD54A0F70144D880\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*60ECB7E44A2F6166\" title=\"11/18/2011\" class=\"LinkSmall\">11/18/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*60ECB7E44A2F6166\" title=\"Robotic Welding Administrator\" class=\"LinkSmall\">Robotic Welding Administrator</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*60ECB7E44A2F6166\" title=\"Bristow\" class=\"LinkSmall\">Bristow</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*60ECB7E44A2F6166\" title=\"OK\" class=\"LinkSmall\">OK</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*60ECB7E44A2F6166\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8AE2EB6BC05FCA39\" title=\"11/18/2011\" class=\"LinkSmall\">11/18/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8AE2EB6BC05FCA39\" title=\"Meter Tube Assembler\" class=\"LinkSmall\">Meter Tube Assembler</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8AE2EB6BC05FCA39\" title=\"Bristow\" class=\"LinkSmall\">Bristow</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8AE2EB6BC05FCA39\" title=\"OK\" class=\"LinkSmall\">OK</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8AE2EB6BC05FCA39\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*2C73F25C33AD95E5\" title=\"11/18/2011\" class=\"LinkSmall\">11/18/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*2C73F25C33AD95E5\" title=\"Code Welder\" class=\"LinkSmall\">Code Welder</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*2C73F25C33AD95E5\" title=\"Bristow\" class=\"LinkSmall\">Bristow</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*2C73F25C33AD95E5\" title=\"OK\" class=\"LinkSmall\">OK</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*2C73F25C33AD95E5\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*C35F31AC17B2E417\" title=\"11/18/2011\" class=\"LinkSmall\">11/18/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*C35F31AC17B2E417\" title=\"Pipe Fitter Helper\" class=\"LinkSmall\">Pipe Fitter Helper</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*C35F31AC17B2E417\" title=\"Bristow\" class=\"LinkSmall\">Bristow</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*C35F31AC17B2E417\" title=\"OK\" class=\"LinkSmall\">OK</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*C35F31AC17B2E417\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*E40BEA7CC06448F8\" title=\"11/18/2011\" class=\"LinkSmall\">11/18/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*E40BEA7CC06448F8\" title=\"Machine Operator\" class=\"LinkSmall\">Machine Operator</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*E40BEA7CC06448F8\" title=\"Bristow\" class=\"LinkSmall\">Bristow</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*E40BEA7CC06448F8\" title=\"OK\" class=\"LinkSmall\">OK</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*E40BEA7CC06448F8\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*1FE00A812ECF5C29\" title=\"11/18/2011\" class=\"LinkSmall\">11/18/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*1FE00A812ECF5C29\" title=\"Hydro Technician\" class=\"LinkSmall\">Hydro Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*1FE00A812ECF5C29\" title=\"Bristow\" class=\"LinkSmall\">Bristow</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*1FE00A812ECF5C29\" title=\"OK\" class=\"LinkSmall\">OK</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*1FE00A812ECF5C29\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*344C38AC2C6DDF09\" title=\"11/18/2011\" class=\"LinkSmall\">11/18/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*344C38AC2C6DDF09\" title=\"Painter\" class=\"LinkSmall\">Painter</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*344C38AC2C6DDF09\" title=\"Bristow\" class=\"LinkSmall\">Bristow</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*344C38AC2C6DDF09\" title=\"OK\" class=\"LinkSmall\">OK</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*344C38AC2C6DDF09\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6D96278FB5C0A633\" title=\"11/16/2011\" class=\"LinkSmall\">11/16/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6D96278FB5C0A633\" title=\"* Revenue Accountant\" class=\"LinkSmall\">* Revenue Accountant</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6D96278FB5C0A633\" title=\"Addison\" class=\"LinkSmall\">Addison</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6D96278FB5C0A633\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6D96278FB5C0A633\" title=\"J-W Admin Company\" class=\"LinkSmall\">J-W Admin Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*D23DFA6E72009452\" title=\"10/31/2011\" class=\"LinkSmall\">10/31/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*D23DFA6E72009452\" title=\"Compressor Service Technician\" class=\"LinkSmall\">Compressor Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*D23DFA6E72009452\" title=\"Brighton\" class=\"LinkSmall\">Brighton</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*D23DFA6E72009452\" title=\"CO\" class=\"LinkSmall\">CO</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*D23DFA6E72009452\" title=\"J-W Power Company\" class=\"LinkSmall\">J-W Power Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0C72706CFB87418F\" title=\"10/25/2011\" class=\"LinkSmall\">10/25/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0C72706CFB87418F\" title=\"Building Assembler\" class=\"LinkSmall\">Building Assembler</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0C72706CFB87418F\" title=\"Sherman\" class=\"LinkSmall\">Sherman</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0C72706CFB87418F\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0C72706CFB87418F\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*024DFC7D1EEF7741\" title=\"10/25/2011\" class=\"LinkSmall\">10/25/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*024DFC7D1EEF7741\" title=\"Packaged Compressor Designer\" class=\"LinkSmall\">Packaged Compressor Designer</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*024DFC7D1EEF7741\" title=\"Longview\" class=\"LinkSmall\">Longview</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*024DFC7D1EEF7741\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*024DFC7D1EEF7741\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*52EBEEBF7F7F5DA4\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*52EBEEBF7F7F5DA4\" title=\"Wireline Engineer\" class=\"LinkSmall\">Wireline Engineer</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*52EBEEBF7F7F5DA4\" title=\"Tyler\" class=\"LinkSmall\">Tyler</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*52EBEEBF7F7F5DA4\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*52EBEEBF7F7F5DA4\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0BF55BF46DB8E951\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0BF55BF46DB8E951\" title=\"Wireline Engineer\" class=\"LinkSmall\">Wireline Engineer</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0BF55BF46DB8E951\" title=\"Weston\" class=\"LinkSmall\">Weston</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0BF55BF46DB8E951\" title=\"WV\" class=\"LinkSmall\">WV</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0BF55BF46DB8E951\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*EF61337625948CAE\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*EF61337625948CAE\" title=\"Wireline Engineer II or III\" class=\"LinkSmall\">Wireline Engineer II or III</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*EF61337625948CAE\" title=\"Searcy\" class=\"LinkSmall\">Searcy</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*EF61337625948CAE\" title=\"AR\" class=\"LinkSmall\">AR</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*EF61337625948CAE\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*CD46AC5B3480F8B7\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*CD46AC5B3480F8B7\" title=\"Wireline Engineer II or III\" class=\"LinkSmall\">Wireline Engineer II or III</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*CD46AC5B3480F8B7\" title=\"Marshall\" class=\"LinkSmall\">Marshall</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*CD46AC5B3480F8B7\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*CD46AC5B3480F8B7\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*D4FB827EA6B2ED94\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*D4FB827EA6B2ED94\" title=\"Compressor Service Technician\" class=\"LinkSmall\">Compressor Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*D4FB827EA6B2ED94\" title=\"Watford City\" class=\"LinkSmall\">Watford City</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*D4FB827EA6B2ED94\" title=\"ND\" class=\"LinkSmall\">ND</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*D4FB827EA6B2ED94\" title=\"J-W Power Company\" class=\"LinkSmall\">J-W Power Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*E376FD07EC6BBB7D\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*E376FD07EC6BBB7D\" title=\"Compressor Service Technician\" class=\"LinkSmall\">Compressor Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*E376FD07EC6BBB7D\" title=\"Magnolia, AR and/or Springhill, LA\" class=\"LinkSmall\">Magnolia, AR and/or Springhill, LA</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*E376FD07EC6BBB7D\" title=\"\" class=\"LinkSmall\"></a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*E376FD07EC6BBB7D\" title=\"J-W Power Company\" class=\"LinkSmall\">J-W Power Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*A5A5FECFA72A8188\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*A5A5FECFA72A8188\" title=\"Compressor Service Technician\" class=\"LinkSmall\">Compressor Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*A5A5FECFA72A8188\" title=\"Cotulla\" class=\"LinkSmall\">Cotulla</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*A5A5FECFA72A8188\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*A5A5FECFA72A8188\" title=\"J-W Power Company\" class=\"LinkSmall\">J-W Power Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4D7D72F14226DD4F\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4D7D72F14226DD4F\" title=\"Technical Director -Cased Hole Wireline Services\" class=\"LinkSmall\">Technical Director -Cased Hole Wireline Services</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4D7D72F14226DD4F\" title=\"Addison\" class=\"LinkSmall\">Addison</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4D7D72F14226DD4F\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4D7D72F14226DD4F\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*773F54BC36896A60\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*773F54BC36896A60\" title=\"Technical Manager - Cased Hole Wireline Services\" class=\"LinkSmall\">Technical Manager - Cased Hole Wireline Services</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*773F54BC36896A60\" title=\"Various\" class=\"LinkSmall\">Various</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*773F54BC36896A60\" title=\"\" class=\"LinkSmall\"></a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*773F54BC36896A60\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*7F04B61CEF6CD4FC\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*7F04B61CEF6CD4FC\" title=\"Area Manager - Natural Gas Measurement\" class=\"LinkSmall\">Area Manager - Natural Gas Measurement</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*7F04B61CEF6CD4FC\" title=\"Elk City\" class=\"LinkSmall\">Elk City</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*7F04B61CEF6CD4FC\" title=\"OK\" class=\"LinkSmall\">OK</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*7F04B61CEF6CD4FC\" title=\"J-W Measurement Company\" class=\"LinkSmall\">J-W Measurement Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8B7FE976C2383403\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8B7FE976C2383403\" title=\"Pipeline Engineer II - III\" class=\"LinkSmall\">Pipeline Engineer II - III</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8B7FE976C2383403\" title=\"Addison\" class=\"LinkSmall\">Addison</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8B7FE976C2383403\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8B7FE976C2383403\" title=\"J-W Gathering Company\" class=\"LinkSmall\">J-W Gathering Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*897E7B384D27D43C\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*897E7B384D27D43C\" title=\"Wireline Engineer\" class=\"LinkSmall\">Wireline Engineer</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*897E7B384D27D43C\" title=\"Hobbs\" class=\"LinkSmall\">Hobbs</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*897E7B384D27D43C\" title=\"NM\" class=\"LinkSmall\">NM</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*897E7B384D27D43C\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*82EE11407DAC495F\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*82EE11407DAC495F\" title=\"Wireline Engineer I - III\" class=\"LinkSmall\">Wireline Engineer I - III</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*82EE11407DAC495F\" title=\"Roosevelt\" class=\"LinkSmall\">Roosevelt</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*82EE11407DAC495F\" title=\"UT\" class=\"LinkSmall\">UT</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*82EE11407DAC495F\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4F0764B94A9470D9\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4F0764B94A9470D9\" title=\"Senior Staff Production Engineer\" class=\"LinkSmall\">Senior Staff Production Engineer</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4F0764B94A9470D9\" title=\"Shreveport\" class=\"LinkSmall\">Shreveport</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4F0764B94A9470D9\" title=\"LA\" class=\"LinkSmall\">LA</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4F0764B94A9470D9\" title=\"J-W Operating Company\" class=\"LinkSmall\">J-W Operating Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8CC79CD8775362A6\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8CC79CD8775362A6\" title=\"Compressor Service Technician\" class=\"LinkSmall\">Compressor Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8CC79CD8775362A6\" title=\"Williamsport/Muncy\" class=\"LinkSmall\">Williamsport/Muncy</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8CC79CD8775362A6\" title=\"PA\" class=\"LinkSmall\">PA</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*8CC79CD8775362A6\" title=\"J-W Power Company\" class=\"LinkSmall\">J-W Power Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*9C3E5CEBC54004B5\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*9C3E5CEBC54004B5\" title=\"Wireline Operator I - III\" class=\"LinkSmall\">Wireline Operator I - III</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*9C3E5CEBC54004B5\" title=\"Haughton\" class=\"LinkSmall\">Haughton</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*9C3E5CEBC54004B5\" title=\"LA\" class=\"LinkSmall\">LA</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*9C3E5CEBC54004B5\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*445DBDDF7AA07ACB\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*445DBDDF7AA07ACB\" title=\"Sales Representative, Wireline -Cased Hole Services &amp; Solutions\" class=\"LinkSmall\">Sales Representative, Wireline -Cased Hole Services &amp; Solutions</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*445DBDDF7AA07ACB\" title=\"Muncy Creek\" class=\"LinkSmall\">Muncy Creek</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*445DBDDF7AA07ACB\" title=\"PA\" class=\"LinkSmall\">PA</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*445DBDDF7AA07ACB\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4D40E5D0419C3196\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4D40E5D0419C3196\" title=\"Wireline Engineer\" class=\"LinkSmall\">Wireline Engineer</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4D40E5D0419C3196\" title=\"Muncy Creek\" class=\"LinkSmall\">Muncy Creek</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4D40E5D0419C3196\" title=\"PA\" class=\"LinkSmall\">PA</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*4D40E5D0419C3196\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*93FD0FAD361E0523\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*93FD0FAD361E0523\" title=\"Wireline Operator\" class=\"LinkSmall\">Wireline Operator</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*93FD0FAD361E0523\" title=\"Muncy Creek\" class=\"LinkSmall\">Muncy Creek</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*93FD0FAD361E0523\" title=\"PA\" class=\"LinkSmall\">PA</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*93FD0FAD361E0523\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*9D18D48907E1B398\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*9D18D48907E1B398\" title=\"Wireline Engineer\" class=\"LinkSmall\">Wireline Engineer</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*9D18D48907E1B398\" title=\"Brockway\" class=\"LinkSmall\">Brockway</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*9D18D48907E1B398\" title=\"PA\" class=\"LinkSmall\">PA</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*9D18D48907E1B398\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*9342B12A28E98786\" title=\"10/21/2011\" class=\"LinkSmall\">10/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*9342B12A28E98786\" title=\"Wireline Engineer\" class=\"LinkSmall\">Wireline Engineer</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*9342B12A28E98786\" title=\"Laredo\" class=\"LinkSmall\">Laredo</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*9342B12A28E98786\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*9342B12A28E98786\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*653D4F0CF8DF7B3B\" title=\"10/11/2011\" class=\"LinkSmall\">10/11/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*653D4F0CF8DF7B3B\" title=\"Pipe Fitter C - A\" class=\"LinkSmall\">Pipe Fitter C - A</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*653D4F0CF8DF7B3B\" title=\"Casper\" class=\"LinkSmall\">Casper</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*653D4F0CF8DF7B3B\" title=\"WY\" class=\"LinkSmall\">WY</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*653D4F0CF8DF7B3B\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6CF6029C92AD592E\" title=\"10/11/2011\" class=\"LinkSmall\">10/11/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6CF6029C92AD592E\" title=\"Building Assembler\" class=\"LinkSmall\">Building Assembler</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6CF6029C92AD592E\" title=\"Casper\" class=\"LinkSmall\">Casper</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6CF6029C92AD592E\" title=\"WY\" class=\"LinkSmall\">WY</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6CF6029C92AD592E\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*F5C644ADBD84693A\" title=\"10/6/2011\" class=\"LinkSmall\">10/6/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*F5C644ADBD84693A\" title=\"Wireline Operator\" class=\"LinkSmall\">Wireline Operator</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*F5C644ADBD84693A\" title=\"Woodward\" class=\"LinkSmall\">Woodward</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*F5C644ADBD84693A\" title=\"OK\" class=\"LinkSmall\">OK</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*F5C644ADBD84693A\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*14BC3ADC93A8A37F\" title=\"10/3/2011\" class=\"LinkSmall\">10/3/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*14BC3ADC93A8A37F\" title=\"Drafter \" class=\"LinkSmall\">Drafter </a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*14BC3ADC93A8A37F\" title=\"Bristow\" class=\"LinkSmall\">Bristow</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*14BC3ADC93A8A37F\" title=\"OK\" class=\"LinkSmall\">OK</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*14BC3ADC93A8A37F\" title=\"J-W Measurement Company\" class=\"LinkSmall\">J-W Measurement Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*C24F3F4CDD5FD7E1\" title=\"9/30/2011\" class=\"LinkSmall\">9/30/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*C24F3F4CDD5FD7E1\" title=\"Compressor Service Technician\" class=\"LinkSmall\">Compressor Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*C24F3F4CDD5FD7E1\" title=\"Fairfield\" class=\"LinkSmall\">Fairfield</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*C24F3F4CDD5FD7E1\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*C24F3F4CDD5FD7E1\" title=\"J-W Power Company\" class=\"LinkSmall\">J-W Power Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*EDA5C5EC2E901D05\" title=\"9/30/2011\" class=\"LinkSmall\">9/30/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*EDA5C5EC2E901D05\" title=\"Measurement Service Technician\" class=\"LinkSmall\">Measurement Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*EDA5C5EC2E901D05\" title=\"Shreveport\" class=\"LinkSmall\">Shreveport</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*EDA5C5EC2E901D05\" title=\"LA\" class=\"LinkSmall\">LA</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*EDA5C5EC2E901D05\" title=\"J-W Measurement Company\" class=\"LinkSmall\">J-W Measurement Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0BD3769520998294\" title=\"9/30/2011\" class=\"LinkSmall\">9/30/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0BD3769520998294\" title=\"Measurement Service Technician\" class=\"LinkSmall\">Measurement Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0BD3769520998294\" title=\"San Antonio to Cotulla\" class=\"LinkSmall\">San Antonio to Cotulla</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0BD3769520998294\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*0BD3769520998294\" title=\"J-W Measurement Company\" class=\"LinkSmall\">J-W Measurement Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*486FA858151E4007\" title=\"9/30/2011\" class=\"LinkSmall\">9/30/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*486FA858151E4007\" title=\"Compressor Service Technician\" class=\"LinkSmall\">Compressor Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*486FA858151E4007\" title=\"Longview\" class=\"LinkSmall\">Longview</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*486FA858151E4007\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*486FA858151E4007\" title=\"J-W Power Company\" class=\"LinkSmall\">J-W Power Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*97013AF1C3E90075\" title=\"9/26/2011\" class=\"LinkSmall\">9/26/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*97013AF1C3E90075\" title=\"District Manager - Wireline Cased-Hole Operations\" class=\"LinkSmall\">District Manager - Wireline Cased-Hole Operations</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*97013AF1C3E90075\" title=\"Brighton\" class=\"LinkSmall\">Brighton</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*97013AF1C3E90075\" title=\"CO\" class=\"LinkSmall\">CO</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*97013AF1C3E90075\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0556B62BB8CD2554\" title=\"9/23/2011\" class=\"LinkSmall\">9/23/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0556B62BB8CD2554\" title=\"Wireline Operator I - III\" class=\"LinkSmall\">Wireline Operator I - III</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0556B62BB8CD2554\" title=\"Monahans\" class=\"LinkSmall\">Monahans</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0556B62BB8CD2554\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*0556B62BB8CD2554\" title=\"J-W Wireline Company\" class=\"LinkSmall\">J-W Wireline Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*02B6F58C71F91651\" title=\"9/21/2011\" class=\"LinkSmall\">9/21/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*02B6F58C71F91651\" title=\"Marketing Revenue Analyst\" class=\"LinkSmall\">Marketing Revenue Analyst</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*02B6F58C71F91651\" title=\"Addison\" class=\"LinkSmall\">Addison</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*02B6F58C71F91651\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*02B6F58C71F91651\" title=\"J-W Gathering Company\" class=\"LinkSmall\">J-W Gathering Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*12C28EF3734A1487\" title=\"9/14/2011\" class=\"LinkSmall\">9/14/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*12C28EF3734A1487\" title=\"* Inventory Assistant\" class=\"LinkSmall\">* Inventory Assistant</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*12C28EF3734A1487\" title=\"Casper\" class=\"LinkSmall\">Casper</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*12C28EF3734A1487\" title=\"WY\" class=\"LinkSmall\">WY</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*12C28EF3734A1487\" title=\"J-W Manufacturing Company\" class=\"LinkSmall\">J-W Manufacturing Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*AA927EE1D3F2724A\" title=\"9/12/2011\" class=\"LinkSmall\">9/12/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*AA927EE1D3F2724A\" title=\"Division Order Analyst\" class=\"LinkSmall\">Division Order Analyst</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*AA927EE1D3F2724A\" title=\"Addison\" class=\"LinkSmall\">Addison</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*AA927EE1D3F2724A\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><a href=\"JobDetails.aspx?__ID=*AA927EE1D3F2724A\" title=\"J-W Operating Company\" class=\"LinkSmall\">J-W Operating Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6A3B85AF5A256C48\" title=\"9/12/2011\" class=\"LinkSmall\">9/12/2011</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6A3B85AF5A256C48\" title=\"Compressor Service Technician\" class=\"LinkSmall\">Compressor Service Technician</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6A3B85AF5A256C48\" title=\"Cleveland\" class=\"LinkSmall\">Cleveland</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6A3B85AF5A256C48\" title=\"TX\" class=\"LinkSmall\">TX</a></td>\r\n\
+      \t\t<td align=\"Left\" class=\"highlightRow\"><a href=\"JobDetails.aspx?__ID=*6A3B85AF5A256C48\" title=\"J-W Power Company\" class=\"LinkSmall\">J-W Power Company</a></td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl776\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl780\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl784\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl788\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl792\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl796\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl800\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl804\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl808\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl812\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl816\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl820\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl824\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl828\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl832\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl836\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl840\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl844\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl848\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl852\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl856\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl860\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl864\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl868\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl872\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl876\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl880\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl884\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl888\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl892\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl896\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl900\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl904\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl908\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl912\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl916\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl920\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl924\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl928\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl932\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl936\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl940\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl944\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl948\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl952\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl956\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl960\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl964\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl968\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl972\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl976\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl980\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl984\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl988\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl992\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl996\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1000\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1004\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1008\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1012\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1016\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1020\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1024\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1028\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1032\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1036\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1040\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1044\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1048\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1052\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1056\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1060\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1064\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1068\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1072\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1076\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1080\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1084\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1088\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1092\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1096\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1100\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1104\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1108\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1112\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1116\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1120\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1124\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1128\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1132\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1136\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1140\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1144\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1148\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1152\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1156\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1160\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1164\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1168\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1172\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1176\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1180\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1184\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1188\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1192\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1196\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1200\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1204\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1208\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1212\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1216\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1220\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1224\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1228\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1232\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1236\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1240\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1244\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1248\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1252\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1256\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1260\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1264\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1268\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1272\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1276\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1280\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1284\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1288\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1292\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1296\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\"><img id=\"_ctl1300\" title=\"\" src=\"images/pixel.gif\" border=\"0\" height=\"17\" />&nbsp;\r\n\
+      </td>\r\n\
+      \t</tr>\r\n\
+      </table>\r\n\
+      <input name=\"__PageNumber\" type=\"hidden\" id=\"__PageNumber\" value=\"1\" /><span><br /></span><input type=\"submit\" name=\"__First\" value=\"&lt;&lt;\" id=\"__First\" disabled=\"disabled\" class=\"ButtonClassNavigation\" style=\"cursor:default;\" />&nbsp;\r\n\
+      <input type=\"submit\" name=\"__Previous\" value=\" &lt; \" id=\"__Previous\" disabled=\"disabled\" class=\"ButtonClassNavigation\" style=\"cursor:default;\" />&nbsp;\r\n\
+      <input type=\"submit\" name=\"__Next\" value=\" > \" id=\"__Next\" disabled=\"disabled\" class=\"ButtonClassNavigation\" style=\"cursor:default;\" />&nbsp;\r\n\
+      <input type=\"submit\" name=\"__Last\" value=\">>\" id=\"__Last\" disabled=\"disabled\" class=\"ButtonClassNavigation\" style=\"cursor:default;\" /></form>\r\n\
+      <br /><br />\r\n\
+      <div class=\"PrintMedium\">If there are no current openings that suit your qualifications, but you would like to be considered for future opportunities that could match your credentials, \r\n\
+      you may submit your resume' and complete our online questionnaire by clicking the link <a href=\"NewCandidateExt.aspx?Page=Resume\">Create a Job-Seeker Profile.</a>  We encourage you to update your profile and search our job openings \r\n\
+      frequently.  Each time you apply for a position directly the application form will automatically pull the information from your profile and notify recruiting of your selection.  \r\n\
+      <em>We will contact you should there be an interest in your application.</em></div>\r\n\
+      \r\n\
+      \r\n\
+      \t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t \r\n\
+      \t</div>\r\n\
+      </div>\r\n \r\n\
+      \t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t<div class=\"row\" id=\"row3\">\r\n\
+      \t\t\t\r\n\
+      \t\t\t<div class=\"column\">\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\t<div id=\"row3column1\" class=\"layoutcell\">\r\n\
+      \t\t\t\t\t\t\r\n \r\n\
+      <div id=\"footer\">\r\n\
+      \t<div id=\"footer_top\">\r\n\
+      \t\t<div id=\"footer_contact\">\r\n\
+      \t\t\t<p>\r\n\
+      \t\t\t\t<strong>J-W Energy Company</strong><br />\r\n\
+      \t\t\t\tCorporate Headquarters<br />\r\n\
+      \t\t\t\t15508 Wright Brothers Dr<br />\r\n\
+      \t\t\t\tAddison, TX 75001\r\n\
+      \t\t\t</p>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<p>\r\n\
+      \t\t\t\tTel: 972-233-8191<br />\r\n\
+      \t\t\t\tFax: 972-991-0704\r\n\
+      \t\t\t</p>\r\n\
+      \t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t<form id=\"footerSearchForm\" action=\"http://www.jwenergy.com/pages/search\" method=\"get\">\r\n\
+      \t\t\t<div>\r\n\
+      \t\t\t\t<input id=\"searchField\" name=\"sterm\" value=\"\" size=\"70\" type=\"text\">\r\n\
+      \t\t\t\t<input id=\"searchButton\" name=\"sbutton\" value=\"Go\" type=\"submit\"><br />\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t<label><input name=\"stype\" value=\"site\" checked=\"checked\" type=\"radio\"> Site Search</label> \r\n\
+      \t\t\t\t<label><input name=\"stype\" value=\"keyword\" type=\"radio\"> Keyword Search</label>\r\n\
+      \t\t\t</div>\r\n\
+      \t\t</form>\r\n\
+      \t</div>\r\n \r\n\
+      \t<div id=\"footer_bottom\">\r\n\
+      \t\t<p>\r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-energy-company\">J-W Energy Company</a>  -  \r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-power-company\">J-W Power Company</a>  -  \r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-measurement-company\">J-W Measurement Company</a>  -  \r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-wireline-company\">J-W Wireline Company</a><br />\r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-manufacturing-company\">J-W Manufacturing Company</a>  -  \r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-gathering-company\">J-W Gathering Company</a>  -  \r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-operating-company1\">J-W Operating Company</a>\r\n\
+      \t\t</p>\r\n\
+      \t\t\r\n\
+      \t\t<p>Copyright &copy; <script type=\"text/javascript\">\t\t                        var d = new Date(); document.write(d.getFullYear());</script> <a href=\"http://www.jwenergy.com/j-w-operating-company\">J-W Operating Company</a>. All Rights Reserved. Powered by <a href=\"http://www.synapse.ws\">Synapse CMS</a></p>\r\n\
+      \t</div>\t\r\n\
+      </div>\r\n \r\n\
+      \t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t</div>\r\n\
+      \t\t\r\n\
+      \t</div>\r\n\
+      </div>\r\n \r\n \r\n \r\n\
+      <script type=\"text/javascript\">\r\n    var gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"http://www.\");\r\n    var cb = Math.floor(Math.random() * 10000000);\r\n    document.write(unescape(\"%3Cscript src='\" + gaJsHost + \"google-analytics.com/ga.js?cb=\" + cb + \"' type='text/javascript'%3E%3C/script%3E\"));\r\n\
+      </script>\r\n\
+      <script type=\"text/javascript\">\r\n    try {\r\n        var pageTracker = _gat._getTracker(\"UA-4609420-32\");\r\n        pageTracker._trackPageview();\r\n    }\r\n    catch (err) { }\r\n\
+      </script> \r\n\
+      </body>\r\n\
+      </html>\r\n"
+    http_version: "1.1"
+- !ruby/struct:VCR::HTTPInteraction 
+  request: !ruby/struct:VCR::Request 
+    method: :get
+    uri: https://rn12.ultipro.com:443/JWO1000/JobBoard/JobDetails.aspx?__ID=*94762A5E73A8D794
+    body: 
+    headers: 
+  response: !ruby/struct:VCR::Response 
+    status: !ruby/struct:VCR::ResponseStatus 
+      code: 200
+      message: OK
+    headers: 
+      x-powered-by: 
+      - ASP.NET
+      p3p: 
+      - (policyref="none.xml", CP="NON DSP COR CURa TIA")
+      x-aspnet-version: 
+      - 2.0.50727
+      content-type: 
+      - text/html; charset=utf-8
+      server: 
+      - Microsoft-IIS/6.0
+      date: 
+      - Tue, 13 Dec 2011 14:36:33 GMT
+      content-length: 
+      - "23808"
+      set-cookie: 
+      - ASP.NET_SessionId=jdwlxmmqfnz0qr2nihqjkkb2; path=/; HttpOnly
+      - BIGipServerrn12.ultipro.com_http_pool=550791178.20480.0000; path=/
+      - __jbsrcid=*86EE06D72F666815; path=/JWO1000/JobBoard
+      cache-control: 
+      - private
+    body: "\r\n\
+      \r\n\
+      <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n\
+      <html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\r\n\
+      <head>\r\n\
+      \r\n\
+      <script>\r\n\
+      \tfunction openWin(URL)\r\n\
+      \t{\r\n\
+      \t\taWindow=window.open(URL, \"help\", \"toolbar=no,width=350,height=250,status=no,scrollbars=yes,resize=yes,menubar=no\");\r\n\
+      \t}\r\n\
+      </script>\r\n\
+      \r\n\
+      \t<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"/>\r\n\
+      \t\r\n\
+      \t\r\n\
+      \t<title>J-W Energy Company | Employment Opportunities2</title>\r\n\
+      \t<meta name=\"author\" content=\"\"/>\r\n\
+      \t<meta name=\"copyright\" content=\"&copy; 2011 J-W Energy CMS All Rights Reserved\"/>\r\n\
+      \t<meta name=\"keywords\" content=\"\"/>\r\n\
+      \t<meta name=\"description\" content=\"\"/>\r\n\
+      \t<meta name=\"revisit-after\" content=\"7 days\"/>\r\n\
+      \t<meta name=\"robot\" content=\"All\"/>\r\n\
+      \t<link rel=\"shortcut icon\" href=\"http://www.jwenergy.com/favicon.ico\" />\r\n \r\n\
+      <link type=\"text/css\" rel=\"stylesheet\" href=\"Custom/SkinCustom/JWO1000/Jobboard.css\"/>\r\n\
+      <link type=\"text/css\" rel=\"stylesheet\" href=\"Custom/SkinCustom/JWO1000/combine.css?m=1294331067355\"/> \r\n\
+      <script type=\"text/javascript\" src=\"Custom/SkinCustom/JWO1000/combine.js?m=1294250965059\"></script>\r\n\
+      <!--[if lt IE 7]>\r\n\
+      \t<script type=\"text/javascript\" src=\"Custom/SkinCustom/JWO1000/ie7.js\"></script>\r\n\
+      <![endif]-->\r\n\
+      </head>\r\n \r\n\
+      <body id=\"page_employment-opportunities\">\r\n \r\n\
+      <div id=\"site\">\r\n\
+      \t\r\n\
+      \t<div class=\"sk_2ColumnWide\">\r\n\
+      \t\t\r\n\
+      \t\t<div class=\"row\" id=\"row1\">\r\n\
+      \t\t\t\r\n\
+      \t\t\t<div class=\"column\">\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\t<div id=\"row1column1\" class=\"layoutcell\">\r\n\
+      \t\t\t\t\t\t\r\n \r\n\
+      <div id=\"header\">\r\n\
+      \t\r\n\
+      \t\r\n\
+      \t\r\n\
+      \t\r\n\
+      \t\r\n\
+      \t<h1 id=\"logo-6\"><a href=\"http://www.jwenergy.com/top-sub-menu\" title=\"Home\">Top Sub Menu</a></h1>\r\n\
+      \t\r\n\
+      \t<div id=\"topmenu\">\r\n\
+      \t\t<ul>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/j-w-energy-company\">Home</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/contact-us\">Contact Us</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/search\">Search</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/newsletter-subscription\">Newsletter Subscription</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/employment-opportunities\">Employment Opportunities</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/links\">Links</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/company-news\">News</a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.jwenergy.com/login\">Login</a></li>\r\n\
+      \t\t</ul>\r\n\
+      \t</div>\r\n\
+      </div> \r\n\
+      \t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t<div class=\"row\" id=\"row2\">\r\n\
+      \t\t\t\r\n\
+      \t\t\t<div class=\"column\">\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\t<div id=\"row2column1\" class=\"layoutcell\">\r\n\
+      \t\t\t\t\t\t\r\n \r\n\
+      <div id=\"mainnav\">\r\n\
+      \t<ul>\r\n\
+      \t\t\r\n\
+      \t\t\t<li id=\"mainnav-14\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-energy-company\">J-W Energy Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li id=\"mainnav-15\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-power-company\">J-W Power Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li id=\"mainnav-20\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-measurement-company\">J-W Measurement Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li id=\"mainnav-17\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-wireline-company\">J-W Wireline Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li id=\"mainnav-21\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-manufacturing-company\">J-W Manufacturing Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li id=\"mainnav-19\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-gathering-company\">J-W Gathering Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li id=\"mainnav-18\" >\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/j-w-operating-company1\">J-W Operating Company</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t</ul>\r\n\
+      </div>\r\n \r\n\
+      \t\t\t\r\n\
+      <div id=\"subnav\">\r\n\
+      \t<h3>J-W Energy Company Menu</h3>\r\n\
+      \t\r\n\
+      \t<ul>\r\n\
+      \t\t\r\n\
+      \t\t\t<li class=\" first\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/our-subsidiaries\">Our Subsidiaries</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/health-safety-and-environment\">Health, Safety and Environment</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/corporate-governance\">Corporate Governance</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/company-history\">Company History</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/business-development\">Business Development</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/management-profiles\">Management Profiles</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/social-media1\">Social Media</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\"\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/our-locations\">Our Locations</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<li class=\" last\">\r\n\
+      \t\t\t\t<a href=\"http://www.jwenergy.com/company-news\">Company News</a>\r\n\
+      \t\t\t</li>\r\n\
+      \t\t\t\r\n\
+      \t</ul>\r\n\
+      </div> \r\n\
+      \t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t\t<div class=\"column\">\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\t<div id=\"row2column2\" class=\"layoutcell\">\r\n\
+      \t\t\t\t\t\t\r\n\
+      <div class=\"block wysiwyg wysiwyg_414\">\r\n\
+      \r\n\
+      \t<div id=\"JobboardLinksMenu\">\r\n\
+      \t\t<ul>\r\n\
+      \t\t\t<li><a href=\"listjobs.aspx?Page=Browse\">Browse Open Jobs</a></li>\r\n\
+      \t\t\t<li><a href=\"SearchJobs.aspx?Page=Search\">Search Open Jobs</a></li>\r\n\
+      \t\t\t<li><a href=\"CanLogin.aspx?Page=Edit&__RT=*03B1BB03D61C8AF97D4673BBBAA90397453A8304235BF4FEFEB9325E4266B80E\">Edit Your Profile</a></li>\r\n\
+      \t\t\t<li><a href=\"CanLogin.aspx?Page=Status&__RT=*D31E1CE553E0352CA0005662327038C0EFE3CF3EEE6DAF505DDA84E0D9A79ACB\">View Submitted Applications</a></li>\r\n            \r\n\
+      \t\t</ul>\r\n\
+      \t</div>\r\n\
+      \r\n\
+      \r\n\
+      \t<div class=\"default\">\r\n\
+      \t\r\n\
+      \r\n\
+      \t\t\t\t\t\t<div class=\"content\">\r\n\
+      \r\n\
+      <br />\r\n\
+      \r\n\
+      <style>\r\n\
+      <!--\r\n\
+      .LabelCell\r\n\
+      {\r\tpadding: 3px 6px 3px 3px;\r\n\
+      \tcolor: #000000;\r\n\
+      \theight: 10px;\r\n\
+      }\r\n\
+      \r\n\
+      .PrintSmall {\r\n\
+      \tfont-weight: bold\r\n\
+      }\r\n\
+      \r\n\
+      .LinkSmall:link \r\n\
+      {\r\n\
+      \tdisplay: block; \r\n\
+      \ttext-align: right;\r\n\
+      \tfont-weight: bold\r\n\
+      \r\n\
+      }\r\n\
+      .LinkSmall:visited \r\n\
+      {\r\n\
+      \tdisplay: block; \r\n\
+      \ttext-align: right;\r\n\
+      \tfont-weight: bold\r\n\
+      \r\n\
+      }\r\n\
+      .LinkSmall:active \r\n\
+      {\r\n\
+      \tdisplay: block; \r\n\
+      \ttext-align: right;\r\n\
+      \tfont-weight: bold\r\n\
+      \r\n\
+      }\r\n\
+      .LinkSmall:hover \r\n\
+      {\r\n\
+      \tdisplay: block; \r\n\
+      \ttext-align: right;\r\n\
+      \tfont-weight: bold;\r\n\
+      }\r\n\
+      .Cell {\r\n\
+      }\r\n\
+      -->\r\n\
+      </style>\r\n\
+      <span class=\"PrintHeader\">Job Details</span>\r\n\
+      <br>\r\n\
+      <form name=\"PXForm\" method=\"post\" action=\"JobDetails.aspx?__ID=*94762A5E73A8D794&__SVRTRID=3020A474-32B9-4477-89A5-89BBDCD98B8E\" id=\"PXForm\">\r\n\
+      <input type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUENTM4MWRkB2n3phPJNE9KslvpXbUAdN4Wujk=\" />\r\n\
+      \r\n\
+      <input type=\"hidden\" name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWBgLRl4yfBALZmLPIBwLRmtKmBwLJvYapAwK9tdWaDgLe7Z7jAWketqLjNv4uVIM44JhvRK49Qreq\" /><input name=\"__PXPOSTBACK\" type=\"hidden\" id=\"__PXPOSTBACK\" value=\"1\" /><script language=\"JavaScript\" type=\"text/javascript\" src=\"../UI/GT/hmscore.js\"></script>\r\n\
+      <SCRIPT LANGUAGE=javascript>\r\n\
+      <!--\r\n\
+      \tfunction resetpxslbp() {\r\n\
+      \t\tvar theform;\r\n\
+      \t\tif (window.navigator.appName.toLowerCase().indexOf(\"netscape\") > -1) {\r\n\
+      \t\t\ttheform = document.forms[\"PXForm\"];\r\n\
+      \t\t}\r\n\
+      \t\telse {\r\n\
+      \t\t\ttheform = document.PXForm;\r\n\
+      \t\t}\r\n\
+      \t\ttheform.__PXLBN.value = ('');\r\n\
+      \t\ttheform.__PXLBV.value = ('');\r\n\
+      \t}\r\n\
+      \tfunction pxslbp(eventTarget, eventArgument) {\r\n\
+      \t\tvar theform;\r\n\
+      \t\tif (window.navigator.appName.toLowerCase().indexOf(\"netscape\") > -1) {\r\n\
+      \t\t\ttheform = document.forms[\"PXForm\"];\r\n\
+      \t\t}\r\n\
+      \t\telse {\r\n\
+      \t\t\ttheform = document.PXForm;\r\n\
+      \t\t}\r\n\
+      \t\ttheform.__PXLBN.value = eventTarget;\r\n\
+      \t\ttheform.__PXLBV.value = eventArgument;\r\n\
+      \t\ttheform.submit();\r\n\
+      \t}\r\n\
+      //-->\r\n\
+      </SCRIPT>\r\n\
+      <input name=\"__PXLBN\" type=\"hidden\" id=\"__PXLBN\" /><input name=\"__PXLBV\" type=\"hidden\" id=\"__PXLBV\" /><SCRIPT LANGUAGE=javascript>\r\n\
+      <!--\r\n\
+      var _unitedCountryId = '471';\r\n\
+      var _canadaCountryId = '472';\r\n\
+      \r\n\
+      function ValidateUsaCanadaPostalCode() {\r\n    var _zipCodeValue = document.getElementById('Can_HZip_340');\r\n    var _CountryValue = document.getElementById('Can_H_CountryFK_340');\r\n    if (_zipCodeValue == null || _CountryValue == null || _zipCodeValue.value == '') {\r\n        return true;\r\n    }\r\n    var _validationReturn;\r\n    if (typeof checkZipWithRegEx == 'function') {\r\n        _zipCodeValue.onchange = ValidateUsaCanadaPostalCode;\r\n        _CountryValue.onchange = ValidateUsaCanadaPostalCode;\r\n        _country = _CountryValue.value;\r\n        var _validationReturn = checkZipWithRegEx(_zipCodeValue.value, _country);\r\n        if (_validationReturn) {\r\n            _zipCodeValue.style.backgroundColor = '';\r\n            removeZipLabelError(_zipCodeValue);\r\n        }\r\n        else {\r\n            var hasError = false;\r\n            try {\r\n                if (_zipCodeValue.parentNode != null && (_zipCodeValue.parentNode.nodeName == 'TD' || _zipCodeValue.parentNode.nodeName == 'Td' || _zipCodeValue.parentNode.nodeName == 'td')) {\r\n                    removeZipLabelError(_zipCodeValue);\r\n                    writeZipLabelError(_zipCodeValue, '<b>Invalid zipcode/postal code format for this country.</b>');\r\n                }\r\n            } catch (e) {\r\n                hasError = true;\r\n            }\r\n            if (hasError) {\r\n                _zipCodeValue.title = 'Invalid Postal Code';\r\n                _zipCodeValue.style.backgroundColor = 'yellow';\r\n            }\r\n        }\r\n        return _validationReturn;\r\n    }\r\n    return true;\r\n\
+      }\r\n\
+      \r\n\
+      function removeZipLabelError(_zipCodeValue) {\r\n    var withSuccess = true;\r\n    try {\r\n        var lenght = _zipCodeValue.parentNode.childNodes.length;\r\n        var index = 0;\r\n        while (index < lenght) {\r\n            var kids = _zipCodeValue.parentNode.childNodes[index];\r\n            if (kids.id == 'spPostalCodeValidationResult') {\r\n                _zipCodeValue.parentNode.removeChild(kids);\r\n                break;\r\n            }\r\n            index++;\r\n        }\r\n    }\r\n    catch (e) { withSuccess = false; }\r\n    return withSuccess;\r\n\
+      }\r\n\
+      \r\n\
+      function PerformResetValidation() {\r\n    var withSuccess = true;\r\n    try {\r\n        var _zipCodeValue = document.getElementById('Can_HZip_340');\r\n        if (_zipCodeValue != null) {\r\n            removeZipLabelError(_zipCodeValue);\r\n            _zipCodeValue.style.backgroundColor = '';\r\n            _zipCodeValue.style.title = 'Postal Code';\r\n        }\r\n    }\r\n    catch (e) { withSuccess = false; }\r\n    return true;\r\n\
+      }\r\n\
+      \r\n\
+      function checkZipWithRegEx(zip, countryCode) {\r\n    try {\r\n        switch (countryCode) {\r\n            case '':\r\n                return false;\r\n                break;\r\n            case _canadaCountryId:\r\n                var RE_ZIP = /^[ABCEGHJKLMNPRSTVXYabceghjklmnprstvxy]{1}\\d{1}[a-zA-Z]{1} *\\d{1}[a-zA-Z]{1}\\d{1}$/;\r\n                return RE_ZIP.test(zip);\r\n                break;\r\n            case _unitedCountryId:\r\n                var RE_ZIP = /^\\d{5}(-\\d{4})?$/;\r\n                return RE_ZIP.test(zip);\r\n                break;\r\n            default:\r\n                return true;\r\n                break;\r\n        }\r\n    } catch (e) {\r\n        return true;\r\n    }\r\n\
+      }\r\n\
+      \r\n\
+      function PerformValidate() {\r\n    return ValidateUsaCanadaPostalCode();\r\n\
+      }\r\n\
+      \r\n\
+      function writeZipLabelError(_zipCodeValue, errorMsg) {\r\n    if (_zipCodeValue == null) {\r\n        return true;\r\n    }\r\n    var withSuccess = true;\r\n    try {\r\n        if (_zipCodeValue.parentNode != null && (_zipCodeValue.parentNode.nodeName == 'TD' || _zipCodeValue.parentNode.nodeName == 'Td' || _zipCodeValue.parentNode.nodeName == 'td')) {\r\n            removeZipLabelError(_zipCodeValue)\r\n            var objSpanResult = document.createElement('span');\r\n            objSpanResult.id = 'spPostalCodeValidationResult';\r\n            objSpanResult.style.color = 'Red';\r\n            objSpanResult.innerHTML = errorMsg;\r\n            _zipCodeValue.parentNode.appendChild(objSpanResult);\r\n            withSuccess = false;\r\n        }\r\n    }\r\n    catch (e) { withSuccess = false; }\r\n    return withSuccess;\r\n\
+      }\r\n\
+      //-->\r\n\
+      </SCRIPT>\r\n\
+      <SCRIPT LANGUAGE=javascript>\r\n\
+      <!--\r\n  function update(which){\r\n  document.PXForm[which].checked = true;\r\n  }\r\n\
+      //-->\r\n\
+      </SCRIPT>\r\n\
+      <SCRIPT LANGUAGE=javascript>\r\n\
+      <!--\r\n  function changepairparentclose(id,fluffytext){\r\n  window.opener.changepair('',id,'',fluffytext);\r\n  window.close();\r\n  }\r\n\
+      //-->\r\n\
+      </SCRIPT>\r\n\
+      \r\n\
+      \r\n\
+      <SCRIPT LANGUAGE=javascript>\r\n\
+      <!--\r\n  function change(which,what){\r\n  var myString = new String(what);\r\n  var myRegExp = /%/;\r\n  var newString = myString.replace(myRegExp, \" \");\r\n  what = newString;\r\n  var obj;\r\n  for(i=0;i<document.forms.length;i++)\r\n  {\r\n  obj = document.forms[i][which];\r\n  obj.value=(what);\r\n  }\r\n  }\r\n  function changepair(which,what,which2,what2){\r\n  var obj;\r\n  var obj2;\r\n  var myString = new String(what);\r\n  var myRegExp = /%/g;\r\n  var newString = myString.replace(myRegExp, \" \");\r\n  what = newString;\r\n  for(i=0;i<document.forms.length;i++)\r\n  {\r\n  obj = document.forms[i][which];\r\n  obj.value=(what);\r\n  }\r\n  var myString2 = new String(what2);\r\n  var myRegExp2 = /%/g;\r\n  var newString2 = myString2.replace(myRegExp2, \" \");\r\n  what2 = newString2;\r\n  for(i=0;i<document.forms.length;i++)\r\n  {\r\n  obj2 = document.forms[i][which2];\r\n  obj2.value=(what2);\r\n  }\r\n  }\r\n  function changepairconcat(which,what,which2,what2,delim){\r\n  var obj;\r\n  var obj2;\r\n  var myString = new String(what);\r\n  var myRegExp = /%/g;\r\n  var newString = myString.replace(myRegExp, \" \");\r\n  what = newString;\r\n  for(i=0;i<document.forms.length;i++)\r\n  {\r\n  obj = document.forms[i][which];\r\n  obj.value=(obj.value + what + ', ');\r\n  }\r\n  var myString2 = new String(what2);\r\n  var myRegExp2 = /%/g;\r\n  var newString2 = myString2.replace(myRegExp2, \" \");\r\n  what2 = newString2;\r\n  for(i=0;i<document.forms.length;i++)\r\n  {\r\n  obj2 = document.forms[i][which2];\r\n  obj2.value=(obj2.value + what2 + delim);\r\n  }\r\n  }\r\n\
+      //-->\r\n\
+      </SCRIPT>\r\n\
+      <input name=\"ParseResume\" type=\"hidden\" id=\"ParseResume\" value=\"0\" />\r\n\
+      <SCRIPT LANGUAGE=javascript>\r\n    function SendResume(){\r\n        document.PXForm.ParseResume.value = 1;\r\n        document.PXForm.submit();\r\n    }\r\n\
+      </script>\r\n\
+      <table cellpadding=\"1\" cellspacing=\"1\" width=\"100%\">\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\" valign=\"top\"><input name=\"__ID\" type=\"hidden\" id=\"__ID\" value=\"*94762A5E73A8D794\" /><span><br /></span></td>\r\n\
+      \t</tr>\r\n\
+      </table>\r\n\
+      <table cellpadding=\"1\" cellspacing=\"1\">\r\n\
+      \t<tr>\r\n\
+      \t\t<td align=\"Left\" class=\"Cell\" valign=\"top\"><table cellpadding=\"1\" cellspacing=\"1\" class=\"DetailsTable\">\r\n\
+      \t\t\t<tr id=\"Row_\" id=\"Row_\">\r\n\
+      \t\t\t</tr>\r\n\
+      \t\t\t<tr id=\"Row_Req_PK\" id=\"Row_Req_PK\">\r\n\
+      \t\t\t\t<td id=\"LabelCell_Req_Code\" align=\"left\" width=\"150\" class=\"LabelCell\" id=\"LabelCell_Req_Code\" valign=\"top\" nowrap=\"nowrap\"><span class=\"PrintSmall\">Requisition Number</span></td>\r\n\
+      \t\t\t\t<td id=\"DataCell_Req_Code\" align=\"left\" class=\"Cell\" id=\"DataCell_Req_Code\" valign=\"top\"><span class=\"PrintSmall\">11-0243</span></td>\r\n\
+      \t\t\t</tr>\r\n\
+      \t\t\t<tr id=\"Row_Req_Code\" id=\"Row_Req_Code\">\r\n\
+      \t\t\t\t<td id=\"LabelCell_Req_PostDate\" align=\"left\" width=\"150\" class=\"LabelCell\" id=\"LabelCell_Req_PostDate\" valign=\"top\" nowrap=\"nowrap\"><span class=\"PrintSmall\">Post Date</span></td>\r\n\
+      \t\t\t\t<td id=\"DataCell_Req_PostDate\" align=\"left\" class=\"Cell\" id=\"DataCell_Req_PostDate\" valign=\"top\"><span class=\"PrintSmall\">12/9/2011</span></td>\r\n\
+      \t\t\t</tr>\r\n\
+      \t\t\t<tr id=\"Row_Req_PostDate\" id=\"Row_Req_PostDate\">\r\n\
+      \t\t\t\t<td id=\"LabelCell_Req_TitleFK\" align=\"left\" width=\"150\" class=\"LabelCell\" id=\"LabelCell_Req_TitleFK\" valign=\"top\" nowrap=\"nowrap\"><span class=\"PrintSmall\">Title</span></td>\r\n\
+      \t\t\t\t<td id=\"DataCell_Req_TitleFK\" align=\"left\" class=\"Cell\" id=\"DataCell_Req_TitleFK\" valign=\"top\"><span class=\"PrintSmall\">Pipeline Designer</span></td>\r\n\
+      \t\t\t</tr>\r\n\
+      \t\t\t<tr id=\"Row_Req_TitleFK\" id=\"Row_Req_TitleFK\">\r\n\
+      \t\t\t\t<td id=\"LabelCell_Req_City\" align=\"left\" width=\"150\" class=\"LabelCell\" id=\"LabelCell_Req_City\" valign=\"top\" nowrap=\"nowrap\"><span class=\"PrintSmall\">City</span></td>\r\n\
+      \t\t\t\t<td id=\"DataCell_Req_City\" align=\"left\" class=\"Cell\" id=\"DataCell_Req_City\" valign=\"top\"><span class=\"PrintSmall\">Addison</span></td>\r\n\
+      \t\t\t</tr>\r\n\
+      \t\t\t<tr id=\"Row_Req_City\" id=\"Row_Req_City\">\r\n\
+      \t\t\t\t<td id=\"LabelCell_Req_State\" align=\"left\" width=\"150\" class=\"LabelCell\" id=\"LabelCell_Req_State\" valign=\"top\" nowrap=\"nowrap\"><span class=\"PrintSmall\">State</span></td>\r\n\
+      \t\t\t\t<td id=\"DataCell_Req_State\" align=\"left\" class=\"Cell\" id=\"DataCell_Req_State\" valign=\"top\"><span class=\"PrintSmall\">TX</span></td>\r\n\
+      \t\t\t</tr>\r\n\
+      \t\t\t<tr id=\"Row_Req_State\" id=\"Row_Req_State\">\r\n\
+      \t\t\t\t<td id=\"LabelCell_Req_Description\" align=\"left\" width=\"150\" class=\"LabelCell\" id=\"LabelCell_Req_Description\" valign=\"top\" nowrap=\"nowrap\"><span class=\"PrintSmall\">Description</span></td>\r\n\
+      \t\t\t\t<td id=\"DataCell_Req_Description\" align=\"left\" class=\"Cell\" id=\"DataCell_Req_Description\" valign=\"top\"><span class=\"PrintVerySmall\"><P><STRONG>Summary:</STRONG> The Pipeline Designer will produce as-built drawings of Gathering facilities and pipelines using&nbsp;AutoCAD, CADWORX, and CADWORX P&amp;ID. This position will also be responsible for preparing \xE2\x80\x9CIssued for Construction\xE2\x80\x9D drawings for use in capital projects, as well as updating and maintaining an electronic filing system of the database for pipeline drawings, etc. </P>\r\n\
+      <P><STRONG>Essential Duties and Responsibilities include, but are not limited to:</STRONG> </P>\r\n\
+      <P>\xE2\x80\xA2 Preparation and updating of I&amp;E, P&amp;ID, and PFD of current facilities. </P>\r\n\
+      <P>\xE2\x80\xA2 Site/Plot plan development. </P>\r\n\
+      <P>\xE2\x80\xA2 Support Regulatory Affairs function for filings, maps, plot plans, etc. </P>\r\n\
+      <P>\xE2\x80\xA2 Develop and maintain as-built drawings of facilities and pipelines. </P>\r\n\
+      <P>\xE2\x80\xA2 Prepare fabrication drawings of proposed facilities including bill of materials. </P>\r\n\
+      <P>\xE2\x80\xA2 Draft drawings from sketches, verbal conversations, and field visits. </P>\r\n\
+      <P>\xE2\x80\xA2 Provide support on bid documents of major facilities for capital projects. </P>\r\n\
+      <P>\xE2\x80\xA2 Consult with Engineering, Operations, and GIS. </P>\r\n\
+      <P>\xE2\x80\xA2 Moderate level of travel may be required </P></span></td>\r\n\
+      \t\t\t</tr>\r\n\
+      \t\t\t<tr id=\"Row_Req_Description\" id=\"Row_Req_Description\">\r\n\
+      \t\t\t\t<td id=\"LabelCell_Req_Requirements\" align=\"left\" width=\"150\" class=\"LabelCell\" id=\"LabelCell_Req_Requirements\" valign=\"top\" nowrap=\"nowrap\"><span class=\"PrintSmall\">Requirements</span></td>\r\n\
+      \t\t\t\t<td id=\"DataCell_Req_Requirements\" align=\"left\" class=\"Cell\" id=\"DataCell_Req_Requirements\" valign=\"top\"><span class=\"PrintVerySmall\"><P align=justify><STRONG>Qualifications:</STRONG> To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skills, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. </P>\r\n\
+      <P align=justify><STRONG>Education and experience:</STRONG> Associate\xE2\x80\x99s degree (A.A.) or equivalent from a two-year college or technical school, and five plus years related experience. </P>\r\n\
+      <P align=justify><STRONG>Computer Skills:</STRONG> Must possess high level of proficiency in using AutoCAD. Position also requires proficiency with CADWORX and CADWORX P&ID, MS Word, Excel, and Visio. </P>\r\n\
+      <P align=justify><STRONG>Other Skills and Abilities:</STRONG> </P>\r\n\
+      <P align=justify>\xE2\x80\xA2 The successful candidate must have the mathematical aptitude to apply mathematical concepts in statistical inference, probability, trigonometry, and geometry. </P>\r\n\
+      <P align=justify>\xE2\x80\xA2 Must apply fractions, percentages, ratios, and proportion concepts to practical situations. </P>\r\n\
+      <P align=justify>\xE2\x80\xA2 The ability to effectively communicate in written form and verbally with various levels within the organization as well as external clients. </P>\r\n\
+      <P align=justify><STRONG>Physical Demands:</STRONG> The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this Job, the employee is regularly required to sit; use hands to finger, handle, or feel and reach with hands and arms. The employee is frequently required to talk or hear. The employee is occasionally required to stand; walk; climb or balance and stoop, kneel, crouch, or crawl. The employee must occasionally lift and/or move up to 10 pounds. </P>\r\n\
+      <P align=justify><STRONG>Work Environment:</STRONG> The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this Job, the employee is occasionally exposed to wet and/or humid conditions; moving mechanical parts; high, precarious places; fumes or airborne particles; outside weather conditions; risk of electrical shock; risk of radiation and vibration. The noise level in the work environment is usually moderate. </P></span></td>\r\n\
+      \t\t\t</tr>\r\n\
+      \t\t\t<tr>\r\n\
+      \t\t\t\t<td align=\"Left\" class=\"LabelCell\"><span class=\"PrintSmall\"></span></td>\r\n\
+      \t\t\t\t<td align=\"Left\" class=\"Cell\"><a href=\"CanLogin.aspx?__JobID=*94762A5E73A8D794&__RT=*D356349294394CA3EAC10FEC2E7B083EC453464DBF45CBEEC41E84D98F92B1B6A6E8282909C087A7\" title=\"Apply On-line\" class=\"LinkSmall\">Apply On-line</a></td>\r\n\
+      \t\t\t</tr>\r\n\
+      \t\t\t<tr>\r\n\
+      \t\t\t\t<td align=\"Left\" class=\"LabelCell\"><span class=\"PrintSmall\"></span></td>\r\n\
+      \t\t\t\t<td align=\"Left\" class=\"Cell\"><a href=\"SendToFriend.aspx?__JobID=*94762A5E73A8D794\" title=\"Send This Job to a Friend\" class=\"LinkSmall\">Send This Job to a Friend</a></td>\r\n\
+      \t\t\t</tr>\r\n\
+      \t\t</table>\r\n\
+      \t\t</td>\r\n\
+      \t</tr>\r\n\
+      </table>\r\n\
+      </form>\r\n\
+      \r\n\
+      \t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t \r\n\
+      \t</div>\r\n\
+      </div>\r\n \r\n\
+      \t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t<div class=\"row\" id=\"row3\">\r\n\
+      \t\t\t\r\n\
+      \t\t\t<div class=\"column\">\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t\t<div id=\"row3column1\" class=\"layoutcell\">\r\n\
+      \t\t\t\t\t\t\r\n \r\n\
+      <div id=\"footer\">\r\n\
+      \t<div id=\"footer_top\">\r\n\
+      \t\t<div id=\"footer_contact\">\r\n\
+      \t\t\t<p>\r\n\
+      \t\t\t\t<strong>J-W Energy Company</strong><br />\r\n\
+      \t\t\t\tCorporate Headquarters<br />\r\n\
+      \t\t\t\t15508 Wright Brothers Dr<br />\r\n\
+      \t\t\t\tAddison, TX 75001\r\n\
+      \t\t\t</p>\r\n\
+      \t\t\t\r\n\
+      \t\t\t<p>\r\n\
+      \t\t\t\tTel: 972-233-8191<br />\r\n\
+      \t\t\t\tFax: 972-991-0704\r\n\
+      \t\t\t</p>\r\n\
+      \t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t<form id=\"footerSearchForm\" action=\"http://www.jwenergy.com/pages/search\" method=\"get\">\r\n\
+      \t\t\t<div>\r\n\
+      \t\t\t\t<input id=\"searchField\" name=\"sterm\" value=\"\" size=\"70\" type=\"text\">\r\n\
+      \t\t\t\t<input id=\"searchButton\" name=\"sbutton\" value=\"Go\" type=\"submit\"><br />\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t<label><input name=\"stype\" value=\"site\" checked=\"checked\" type=\"radio\"> Site Search</label> \r\n\
+      \t\t\t\t<label><input name=\"stype\" value=\"keyword\" type=\"radio\"> Keyword Search</label>\r\n\
+      \t\t\t</div>\r\n\
+      \t\t</form>\r\n\
+      \t</div>\r\n \r\n\
+      \t<div id=\"footer_bottom\">\r\n\
+      \t\t<p>\r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-energy-company\">J-W Energy Company</a>  -  \r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-power-company\">J-W Power Company</a>  -  \r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-measurement-company\">J-W Measurement Company</a>  -  \r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-wireline-company\">J-W Wireline Company</a><br />\r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-manufacturing-company\">J-W Manufacturing Company</a>  -  \r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-gathering-company\">J-W Gathering Company</a>  -  \r\n\
+      \t\t\t<a href=\"http://www.jwenergy.com/j-w-operating-company1\">J-W Operating Company</a>\r\n\
+      \t\t</p>\r\n\
+      \t\t\r\n\
+      \t\t<p>Copyright &copy; <script type=\"text/javascript\">\t\t                        var d = new Date(); document.write(d.getFullYear());</script> <a href=\"http://www.jwenergy.com/j-w-operating-company\">J-W Operating Company</a>. All Rights Reserved. Powered by <a href=\"http://www.synapse.ws\">Synapse CMS</a></p>\r\n\
+      \t</div>\t\r\n\
+      </div>\r\n \r\n\
+      \t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t</div>\r\n\
+      \t\t\r\n\
+      \t\t</div>\r\n\
+      \t\t\r\n\
+      \t</div>\r\n\
+      </div>\r\n \r\n \r\n \r\n\
+      <script type=\"text/javascript\">\r\n    var gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"http://www.\");\r\n    var cb = Math.floor(Math.random() * 10000000);\r\n    document.write(unescape(\"%3Cscript src='\" + gaJsHost + \"google-analytics.com/ga.js?cb=\" + cb + \"' type='text/javascript'%3E%3C/script%3E\"));\r\n\
+      </script>\r\n\
+      <script type=\"text/javascript\">\r\n    try {\r\n        var pageTracker = _gat._getTracker(\"UA-4609420-32\");\r\n        pageTracker._trackPageview();\r\n    }\r\n    catch (err) { }\r\n\
+      </script> \r\n\
+      </body>\r\n\
+      </html>\r\n"
+    http_version: "1.1"
