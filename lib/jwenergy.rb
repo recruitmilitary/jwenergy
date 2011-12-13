@@ -70,24 +70,26 @@ module JWEnergy
     end
 
     def self.http_post(url, attributes)
-      uri = URI.parse(url)
-      request = Net::HTTP::Post.new(uri.path)
-
-      request.set_form_data(attributes)
-
-      http = Net::HTTP.new(uri.host, uri.port)
-
-      if (uri.port == 443) # ssl?
-        http.use_ssl = true
-        http.verify_mode = OpenSSL::SSL::VERIFY_PEER
-      end
-
-      http.request(request)
+      http_request(:post, url, attributes)
     end
 
-    def self.fetch_document(url)
+    def self.http_get(url)
+      http_request(:get, url)
+    end
+
+    def self.http_request(method, url, attributes = {})
       uri = URI.parse(url)
-      request = Net::HTTP::Get.new(uri.path + '?' + uri.query)
+
+      case method
+      when :get
+        request = Net::HTTP::Get.new(uri.path + '?' + uri.query)
+      when :post
+        request = Net::HTTP::Post.new(uri.path)
+        request.set_form_data(attributes)
+
+      else
+        raise "Unknown HTTP request method #{method}"
+      end
 
       http = Net::HTTP.new(uri.host, uri.port)
 
@@ -97,8 +99,11 @@ module JWEnergy
         http.ca_path = ::JWEnergy.ca_path if ::JWEnergy.ca_path
       end
 
-      response = http.request(request)
+      http.request(request)
+    end
 
+    def self.fetch_document(url)
+      response = http_get(url)
       Nokogiri::HTML(response.body)
     end
 
