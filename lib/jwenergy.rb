@@ -6,6 +6,10 @@ require 'nokogiri'
 
 module JWEnergy
 
+  class << self
+    attr_accessor :ca_path
+  end
+
   class Job < OpenStruct
 
     DEFAULT_BASE_URL = 'https://rn12.ultipro.com/JWO1000/JobBoard'
@@ -96,10 +100,6 @@ module JWEnergy
       response = http.request(request)
 
       Nokogiri::HTML(response.body)
-    end
-
-    class << self
-      attr_accessor :ca_path
     end
 
     def description
