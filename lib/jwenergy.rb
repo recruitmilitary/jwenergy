@@ -90,11 +90,16 @@ module JWEnergy
       if (uri.port == 443) # ssl?
         http.use_ssl = true
         http.verify_mode = OpenSSL::SSL::VERIFY_PEER
+        http.ca_path = ca_path if ca_path
       end
 
       response = http.request(request)
 
       Nokogiri::HTML(response.body)
+    end
+
+    class << self
+      attr_accessor :ca_path
     end
 
     def description
